@@ -1,4 +1,4 @@
-# Data_types_in_C-
+# Data_types_in_C++
 ## Aim
 We leaern about all data types in C++.
 ## Theory
